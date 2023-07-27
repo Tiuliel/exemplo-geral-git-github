@@ -1,2 +1,9 @@
-# exemplo-geral-git-github
- exemplos de uso do Git e GitHub
+# exemplos de uso do Git e GitHub
+
+## Git
+
+É um sistema de **versionamento**.
+
+## GitHub
+
+É uma _plataforma_ de compartilhamento de código-fonte que usa recursos Git.
